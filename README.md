@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**sofiaeboli/sofiaeboli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="400">
+      <img src="wave.png" width="400" alt="Wave">
+    </td>
+    <td valign="top">
+      <h1>Sofia Eboli</h1>
+      <p>Computer Engineering student trying to make the web a little more beautiful, one pixel at a time.</p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Front-end development and UI design</li>
+        <li>Web standards and accessibility</li>
+        <li>CSS architecture and design systems</li>
+        <li>Human-computer interaction</li>
+        <li>Open source tooling</li>
+      </ul>
+      <h2>Technologies</h2>
+      <ul>
+        <li>Languages: C, HTML, CSS</li>
+        <li>Environment: Linux</li>
+        <li>Focus: Interface, layout, and user experience</li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>Website: <a href="https://sofiaeboli.github.io">sofiaeboli.github.io</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
